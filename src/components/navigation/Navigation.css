@@ -30,3 +30,14 @@ ul {
     justify-content: space-between;
     align-items: center;
 }
+
+.default-link {
+    border-bottom: 4px solid transparent;
+    line-height: 2;
+
+
+}
+.default-active-link {
+    border-bottom: 5px solid red;
+    line-height: 20px;
+}
